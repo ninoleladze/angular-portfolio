@@ -1,0 +1,6 @@
+/* src/app/app.component.css */
+main {
+  min-height: calc(100vh - 160px); /* Adjust based on header/footer height */
+  padding-top: 80px; /* To account for fixed header */
+  overflow: hidden;
+}
